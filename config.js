@@ -2,7 +2,7 @@
 /* Sheet ID
 /* Your sheet ID
 /* ------------------------------------------------------------------- */
-let sheetID = "1jtEcQ5y5NXbpdEArSxxW2Wt-DbEQhqH0TepFQtwyc8AA";
+let sheetID = "1jtEcQ5y5NXbpdEArSxxW2WtDbEQhqH0TepFQtwyc8AA";
 
 
 /* ------------------------------------------------------------------- */
